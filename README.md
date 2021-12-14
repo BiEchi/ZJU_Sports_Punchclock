@@ -11,9 +11,13 @@ Because the development is based on iOS system, we use Xcode to construct the pr
 
 Open [Gaode API](https://lbs.amap.com/tools/picker) and get your intended location. Note that this location (GCJ02) is not exact because of restrictions in China. Thus, the real location should be obtained by a mathematical algorithm.
 
+For exampl,e Tian’an men: [116.397498, 39.90916]
+
 ## Use the shift algorithm from GCJ02 to WGS84
 
 Modify the main function in the python script `./coordTransform_utils.py` and run `python2 ./coordTransform_utils.py` to get the real location.
+
+For exampl,e Tian’an men: [116.39125436909006, 39.907756481171596]
 
 ## Construct the Program
 

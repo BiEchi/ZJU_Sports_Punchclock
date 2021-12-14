@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042C48E12767721C00291250"
+               BlueprintIdentifier = "048E3C2F276885FA00BEEBC6"
                BuildableName = "app.app"
                BlueprintName = "app"
                ReferencedContainer = "container:app.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042C48F22767721D00291250"
+               BlueprintIdentifier = "048E3C40276885FB00BEEBC6"
                BuildableName = "appTests.xctest"
                BlueprintName = "appTests"
                ReferencedContainer = "container:app.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042C48FD2767721D00291250"
+               BlueprintIdentifier = "048E3C4B276885FB00BEEBC6"
                BuildableName = "appUITests.xctest"
                BlueprintName = "appUITests"
                ReferencedContainer = "container:app.xcodeproj">
@@ -64,14 +64,14 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "042C48E12767721C00291250"
+            BlueprintIdentifier = "048E3C2F276885FA00BEEBC6"
             BuildableName = "app.app"
             BlueprintName = "app"
             ReferencedContainer = "container:app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "../../app/Location.gpx"
+         identifier = "../../../Location.gpx"
          referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>
@@ -85,7 +85,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "042C48E12767721C00291250"
+            BlueprintIdentifier = "048E3C2F276885FA00BEEBC6"
             BuildableName = "app.app"
             BlueprintName = "app"
             ReferencedContainer = "container:app.xcodeproj">
