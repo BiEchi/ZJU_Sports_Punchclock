@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("You're now running on the playground.")
+            .padding()
+        Text("Please wait for 20 mins to complete the running.")
             .padding()
     }
 }
